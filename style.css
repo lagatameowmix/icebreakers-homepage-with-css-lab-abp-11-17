@@ -1,3 +1,7 @@
 *{
   font-family: "helvetica", "arial", "san-serif";
 }
+
+body{
+  padding: 0 30px 0 30px;
+}
