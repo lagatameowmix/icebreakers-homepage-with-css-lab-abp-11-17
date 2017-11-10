@@ -12,3 +12,7 @@ header{
   border-bottom-width: 1px;
   border-bottom-color: #CCC;
 }
+
+header nav{
+  float: right;
+}
